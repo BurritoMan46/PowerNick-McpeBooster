@@ -1,0 +1,46 @@
+<H1>Pocketmine PowerNick Plugin by @McpeBooster</H1>
+
+[<img src="https://img.shields.io/badge/Poggit-view-brightgreen.svg" width="100" height="25" />](https://poggit.pmmp.io/ci/McpeBooster/PowerNick-McpeBooster/PowerNick-McpeBooster)
+
+<br>
+
+<H1>News:</H1>
+
+The plugin is now complete and has been released
+
+This Plugin has now a MultiLang System with English and , more comming soon.
+
+<br>
+
+Change the language easily in the config.yml
+
+<br>
+
+<H1>How to install:</H1>
+
+<br>
+
+Drop the Plugin into you plugins folder, restart your server and change the config.yml!
+
+<br>
+
+<br>
+
+<H1>Features:</H1>
+
+- Changes the player name and the group
+- Highly changeable
+
+<br>
+
+<br>
+
+<H1>Contact details:</H1>
+
+Twitter: https://twitter.com/McpeBooster
+
+YouTube: https://youtube.com/McpeBooster
+
+GitHub: https://github.com/McpeBooster
+
+E-Mail: mcpebooster@gmail.com
