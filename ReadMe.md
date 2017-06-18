@@ -26,6 +26,16 @@ Drop the Plugin into you plugins folder, restart your server and change the conf
 
 <br>
 
+<H1>Commands:</H1>
+
+| Command | Description | Permission |
+| --- | --- | --- |
+| /nick auto | add/del nick | PowerNick.nick |
+
+<br>
+
+<br>
+
 <H1>Features:</H1>
 
 - Changes the player name and the group
