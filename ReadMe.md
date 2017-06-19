@@ -10,6 +10,8 @@ The plugin is now complete and has been released
 
 This Plugin has now a MultiLang System with English and , more comming soon.
 
+New Skin changer
+
 <br>
 
 Change the language easily in the config.yml
@@ -38,7 +40,7 @@ Drop the Plugin into you plugins folder, restart your server and change the conf
 
 <H1>Features:</H1>
 
-- Changes the player name and the group
+- Changes the player name, group and the skin
 - Highly changeable
 
 <br>
