@@ -1,6 +1,6 @@
 name: PowerNick
 main: PowerNick\PowerNick
 version: 1.0.0
-api: [2.0.0, 3.0.0-ALPHA5, 3.0.0-ALPHA6]
+api: [2.0.0, 3.0.0, 3.0.0-ALPHA12, 4.0.0]
 author: McpeBooster
 website: twitter.com/McpeBooster
